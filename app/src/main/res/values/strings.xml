@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string-array name="unitList">
+        <item>Choose Unit</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>ft</item>
+        <item>in</item>
+    </string-array>
+</resources>
